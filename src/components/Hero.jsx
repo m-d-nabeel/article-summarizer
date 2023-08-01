@@ -8,7 +8,7 @@ export default function Hero() {
         <button
           type="button"
           onClick={() => {
-            window.open("https://m-d-nabeel.github.io/tenzies-react/");
+            window.open("https://github.com/m-d-nabeel");
           }}
           className="black_btn"
         >
